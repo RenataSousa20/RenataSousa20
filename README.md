@@ -1,4 +1,4 @@
-## Olá!  👋
+### Olá!  👋
 
 - 👧 Bom, me chamo Renata Amâncio de Sousa
 - ✈  Amo viajar
@@ -42,14 +42,14 @@
     alt="GitHub Stats" 
     height="175" 
     style="flex: 1 1 48%; margin-bottom: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=victormacieldev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=RenataSousa20&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
   <img 
     alt="GitHub Stats" 
     height="90" 
     style="flex: 1 1 48%; margin-bottom: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormacieldev&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataSousa20&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
   />
 </div>
 
