@@ -60,3 +60,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/renataamancio20/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenataSousa20/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RenataAmancio20/)
+
+###
+
+<div align="center">
+  
+![Snake animation](https://github.com/andreampinheiro/andreampinheiro/blob/output/github-contribution-grid-snake.svg)
+ 
+ </div>
+ 💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘💘
